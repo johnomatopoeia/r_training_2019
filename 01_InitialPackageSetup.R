@@ -1,19 +1,3 @@
-# R is a programming language developed in the early 90s with a large catalog of methods and packages 
-# to perform data manipulation, statistical analysis, and data visualization. I can process most
-# stochastic modeling techniques (regression, time series, etc..), and it will run machine learning algorithms.
-# 
-# R is still most prevalent in Academics, closely followed by Healthcare and Government. However, with its wide 
-# use by graduates, and lower cost compared to alternatives like SAS, it is growing in usage across data heavy
-# industries. It is used least in technology and electronics industries, partly due to the advanced programming
-# capability of Python for web and software deployment.
-# 
-# R comes with teh standard R base functions, and users can develop and install custom packages for specific 
-# functionality. The most widely used packages are part of the tidyverse collection, developed by Hadley 
-# Wickham to make R more powerful for data science. (https://www.tidyverse.org/packages/). The following code
-# installs the tidyverse package, which includes the dplyr, tiblle, ggplot2, readr, purr, stringr, and forcats
-# packages. 
-
-
 # Place your cursor on the install packages line and press Ctrl+Enter or Cmd+Enter
 # Notice how the cursor advanced forward one line
 
