@@ -5,7 +5,7 @@ check_ifthen <- function() {
   } else if (grep('if.+?\\(.+?\\).+\\{.+\\{.+?\\}.+?else.+\\{.+\\}',paste(deparse(format_rate),collapse='')) == TRUE)   {
     print("Looks good, function format_rate contains the general if, then, else structure")
   } else {
-    print(paste("format_rate is a", typeof(roll_n), class(roll_n), "and the if, then, else,  may not be correct"))
+    print(paste("format_rate is a", typeof(format_rate), class(format_rate), "and the if, then, else,  may not be correct"))
   }
   
   if (!exists('rate_character_f')) {
