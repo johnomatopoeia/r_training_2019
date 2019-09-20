@@ -1,10 +1,10 @@
 ######### Write code to create a charaacter string, a ############
 
-
+a <- "gdflkgjdfslkgjsdflgkjdfsl"
 
 ######### Write code to create an integer, b ############
 
-
+b <- 34534L
 
 ######### Write code to create a numeric, c ############
 
