@@ -1,4 +1,4 @@
-# Write code to create a character string, a 
+# Write code to create the character string, a 
 
 
 
